@@ -369,7 +369,6 @@
 		body.landing:before {
 			line-height: 2.025em;
 		}
-		
 	}
 
 /* Container */
@@ -2150,6 +2149,10 @@
 		 #diffont {
 			 font: Arial;
 		 }
+
+		 a, a:active, a:focus{
+			outline: none;  
+		}
 
 		
 

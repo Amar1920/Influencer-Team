@@ -3552,6 +3552,9 @@ body.is-touch #banner {
   #diffont {
     font: Arial;
   }
+  a, a:active, a:focus {
+    outline: none;
+  }
   /* Footer */
   #footer {
     padding: 3em 1.25em;
