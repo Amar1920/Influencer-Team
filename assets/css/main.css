@@ -4090,6 +4090,9 @@ input, select, textarea {
 				padding: 3em 1.5625em 5.25em 1.5625em;
 			}
 
+			
+		
+
 		/* Footer */
 
 			#footer {
@@ -4109,6 +4112,11 @@ input, select, textarea {
 
 	}
 
-	html, body {
-		font: Arial;
+
+	@media(max-width: 700px){
+		.disnone {
+			display: none;
+		}
 	}
+
+
